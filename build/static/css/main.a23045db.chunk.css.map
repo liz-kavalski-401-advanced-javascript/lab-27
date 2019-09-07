@@ -1,0 +1,1 @@
+{"version":3,"sources":["counter.scss"],"names":[],"mappings":"AAAA,EACI,aAAc,CAElB,KACI,aAAc,CACd,eAAgB,CAChB,gBAAiB","file":"main.a23045db.chunk.css","sourcesContent":["a{\r\n    font-size: 3em;\r\n}\r\nspan{\r\n    font-size: 5em;\r\n    margin-left: 2em;\r\n    margin-right: 2em;\r\n}"]}
