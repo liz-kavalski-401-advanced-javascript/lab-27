@@ -8,8 +8,8 @@
 ### Links and Resources
 * [![Build Status](https://travis-ci.com/liz-kavalski-401-advanced-javascript/lab-27.svg?branch=master)](https://travis-ci.com/liz-kavalski-401-advanced-javascript/lab-27)
 * [submission PR](http://xyz.com)
-* [Netify](http://xyz.com)
-* [S3 AWS]()
+* [Netify](https://suspicious-kare-53822e.netlify.com)
+* [S3 AWS]Coming soon
 
 #### Documentation
 None at this time
