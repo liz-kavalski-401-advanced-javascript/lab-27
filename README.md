@@ -6,8 +6,8 @@
 ### Author: Liz Kavalski
 
 ### Links and Resources
+* [![Build Status](https://travis-ci.com/liz-kavalski-401-advanced-javascript/lab-27.svg?branch=master)](https://travis-ci.com/liz-kavalski-401-advanced-javascript/lab-27)
 * [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
 * [Netify](http://xyz.com)
 * [S3 AWS]()
 
